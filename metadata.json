@@ -1,0 +1,8 @@
+
+{
+  "name": "Abandance Property Maintenance",
+  "description": "Professional, affordable, and on-time property maintenance, repairs, and renovations in South Africa. From plumbing and electrical to complete renovations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
